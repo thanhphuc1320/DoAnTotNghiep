@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAWeb", "DAWeb\DAWeb.csproj", "{10C97ABA-8A52-4E69-A3B3-29AB96C08443}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAWeb.Tests", "DAWeb.Tests\DAWeb.Tests.csproj", "{B2AAFF40-3A79-49C3-AF61-45A29E91E20F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10C97ABA-8A52-4E69-A3B3-29AB96C08443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10C97ABA-8A52-4E69-A3B3-29AB96C08443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10C97ABA-8A52-4E69-A3B3-29AB96C08443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10C97ABA-8A52-4E69-A3B3-29AB96C08443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2AAFF40-3A79-49C3-AF61-45A29E91E20F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2AAFF40-3A79-49C3-AF61-45A29E91E20F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2AAFF40-3A79-49C3-AF61-45A29E91E20F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2AAFF40-3A79-49C3-AF61-45A29E91E20F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EB62209-1F56-46CC-A857-F8C0358CC5BC}
+	EndGlobalSection
+EndGlobal
